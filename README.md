@@ -21,7 +21,7 @@
   </a>
 </p>
 
-Collect Perplexity AI answers through the **Scrapeless LLM Chat Scraper** API, including Markdown responses, related follow-up prompts, web citations, and media references, without reverse-engineering the Perplexity UI, maintaining browsers, or building your own anti-blocking stack.
+Collect Perplexity AI answers through the **Scrapeless AI Scraper** API, including Markdown responses, related follow-up prompts, web citations, and media references, without reverse-engineering the Perplexity UI, maintaining browsers, or building your own anti-blocking stack.
 
 Use this repo when you need a repeatable way to monitor Perplexity answers for GEO and AI search visibility, compare prompts across regions, audit cited sources, or pipe AI responses into analytics and automation workflows.
 
@@ -160,7 +160,7 @@ Pipe Perplexity answers into internal dashboards, knowledge-base QA systems, spr
 
 | Benefit | What it means for your team |
 | ------- | --------------------------- |
-| One unified API | Query Perplexity through the same Scrapeless LLM Chat Scraper workflow used for other AI answer engines. |
+| One unified API | Query Perplexity through the same Scrapeless AI Scraper workflow used for other AI answer engines. |
 | Structured output | Receive Markdown answers, related prompts, web citations, and media references in a developer-friendly response. |
 | Less maintenance | Avoid building browser automation, UI selectors, proxy rotation, retries, and anti-blocking logic yourself. |
 | Region-aware analysis | Use country inputs to compare localized AI answers and cited sources. |
@@ -170,7 +170,7 @@ Pipe Perplexity answers into internal dashboards, knowledge-base QA systems, spr
 
 ### What is Perplexity Scraper?
 
-Perplexity Scraper is a Scrapeless LLM Chat Scraper actor that sends prompts to Perplexity AI and returns structured answer data, including the Markdown response, related follow-up prompts, web citations, and media references.
+Perplexity Scraper is a Scrapeless AI Scraper actor that sends prompts to Perplexity AI and returns structured answer data, including the Markdown response, related follow-up prompts, web citations, and media references.
 
 ### Do I need to run a browser or proxy pool?
 
@@ -194,8 +194,8 @@ Make sure your use case complies with applicable laws, platform terms, privacy r
 
 ## Learn more
 
-- [Scrapeless LLM Chat Scraper documentation](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
-- [Supported LLM Chat Scraper actors](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
+- [Scrapeless AI Scraper documentation](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
+- [Supported AI Scraper actors](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
 - [Scrapeless dashboard](https://app.scrapeless.com/passport/login?redirect=/quick-start)
 - [Scrapeless website](https://www.scrapeless.com/en)
 
